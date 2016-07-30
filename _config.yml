@@ -1,12 +1,12 @@
 # Permalinks
-permalink:           /:year/:title/
+permalink:           :year/:title/
 
 # Setup
 title:               Вторая система
 tagline:             'Блог о рациональном мышлении'
 description:         'Блог, где я рассказываю обо всём, что связано с попытками мыслить более рационально.'
-url:                 https://rationalblog.github.io/
-baseurl:             'https://rationalblog.github.io'
+url:                 https://rationalblog.github.io
+baseurl:             ''
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page:num"
