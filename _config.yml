@@ -5,8 +5,8 @@ permalink:           /:year/:title/
 title:               Вторая система
 tagline:             'Блог о рациональном мышлении'
 description:         'Блог, где я рассказываю обо всём, что связано с попытками мыслить более рационально.'
-url:                 http://rationalblog.github.io/
-baseurl:             'http://rationalblog.github.io'
+url:                 https://rationalblog.github.io/
+baseurl:             'https://rationalblog.github.io'
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page:num"
